@@ -1,9 +1,9 @@
-//檔名  習慣命名
+        //檔名  習慣命名
 public class Try1107_001 {
     public static void main(String[] args) {
         System.out.println("hello");
         //變數  習慣命名
-         int appleBananaCup=1;
+        int appleBananaCup=1;
         System.out.println("x="+appleBananaCup);
         //常數  習慣命名
         final int Y=55;
