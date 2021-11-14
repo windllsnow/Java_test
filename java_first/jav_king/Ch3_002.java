@@ -11,6 +11,8 @@ public class Ch3_002 {
         System.out.println(ch);
         ch='\u9B41';
         System.out.println(ch);
+        ch='\u0022';
+        System.out.println(ch);
     }
 
     

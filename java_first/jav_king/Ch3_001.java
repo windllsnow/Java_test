@@ -10,6 +10,9 @@ package jav_king;
             System.out.println(ch);//but  打 數字 視為Unicode 碼 --> 對應的字元
         }
 
-
-    }
-
+                
+                
+                
+            
+}
+        
